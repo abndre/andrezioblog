@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Andrezio
 paginate:       5
-baseurl:        "/tale"
+baseurl:        "/andrezio"
 url:            "https://chesterhow.github.io"
 
 # Assets
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
+  name:         Andre S. B. da SIlva
   url:          http://chester.how
-  email:        chesterhow@gmail.com
+  email:        andrezio@live.com
 
 # Custom vars
 version:        3.4.1
